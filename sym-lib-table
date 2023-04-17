@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-C3-MINI-1-N4")(type "KiCad")(uri "${KIPRJMOD}/custom_libs/ESP32-C3-MINI-1-N4/ESP32-C3-MINI-1-N4.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/custom_libs/usbc/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+  (lib (name "LESD5D5.0CT1G")(type "KiCad")(uri "${KIPRJMOD}/custom_libs/LESD5D5.0CT1G/LESD5D5.0CT1G.kicad_sym")(options "")(descr ""))
+)
